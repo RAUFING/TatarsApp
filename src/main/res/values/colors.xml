@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета приложения -->
+    <color name="primary_color">#6200EE</color>     <!-- Фиолетовый -->
+    <color name="primary_dark">#3700B3</color>      <!-- Темно-фиолетовый -->
+    <color name="accent_color">#03DAC5</color>      <!-- Бирюзовый -->
+
+    <!-- Системные цвета -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Цвета интерфейса -->
+    <color name="error_color">#B00020</color>       <!-- Красный для ошибок -->
+    <color name="text_primary">#DE000000</color>    <!-- Черный с прозрачностью 87% -->
+    <color name="background">#FFF5F5F5</color>      <!-- Светло-серый фон -->
+
+    <!-- Дополнительные цвета -->
+    <color name="button_text">@color/white</color>  <!-- Белый текст на кнопках -->
+    <color name="divider_color">#1F000000</color>   <!-- Разделители -->
+</resources>

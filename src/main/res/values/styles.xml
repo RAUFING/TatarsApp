@@ -1,0 +1,24 @@
+<resources>
+    <!-- Базовая тема -->
+    <style name="Theme.TatarsApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#3700B3</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+
+    <!-- Стиль для кнопок меню -->
+    <style name="MenuButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">120dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="strokeColor">#6200EE</item>
+        <item name="android:textColor">#6200EE</item>
+        <item name="iconTint">#6200EE</item>
+        <item name="android:textSize">14sp</item>
+        <item name="iconPadding">8dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:layout_columnWeight">1</item>
+    </style>
+</resources>
